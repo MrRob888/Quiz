@@ -1,0 +1,8 @@
+#hs-container {
+  width: 800px;
+  max-width: 800px;
+  background-color: white;
+  border-radius: 1em;
+  padding: 10px;
+  box-shadow: 0 0 10px 3px;
+}
